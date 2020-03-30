@@ -1,4 +1,4 @@
 # hello-world
 
 Hello! I'm Turtle.
-I like swimming in Pacific Ocean somehow.
+I like swimming in the Pacific Ocean rather than the Atlantic Ocean.
